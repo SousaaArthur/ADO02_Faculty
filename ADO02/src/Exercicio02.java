@@ -5,6 +5,7 @@ public class Exercicio02 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("-->CONTADOR DE MULTIPLOS<--");
 		System.out.print("Insira um valor: ");
 		int number = sc.nextInt();
 		
